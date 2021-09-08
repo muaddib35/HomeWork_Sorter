@@ -12,11 +12,7 @@ TARGET_DIR = "homeworks" # dosyaların eğiticilere dağıtılacağı ana dizin
 
 
 ASSIGNMENTS = [
-        {'Instructor': 'Murat Çizmecioğlu', 'dirname': 'murat', 'selections': [0,1,2]},
-        {'Instructor': 'Güneş Çoban', 'dirname': 'gunes', 'selections': [3,4,5]},
-        {'Instructor': 'Özlem Akgül', 'dirname': 'ozlem', 'selections': [6,7]},
-        {'Instructor': 'Ayşe Hande Tarıkoğulları', 'dirname': 'ayse', 'selections': [8]},
-        {'Instructor': 'Şirin Uysal', 'dirname': 'sirin', 'selections': [9]},
+        {'Instructor': 'Mehmet Arun', 'dirname': 'mehmet', 'selections': [0,1,2,3,4,5,6,7,8,9]}
 ]
 
 
